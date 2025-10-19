@@ -40,3 +40,4 @@ Switch to drawing mode from design mode
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
+<img width="1015" height="725" alt="SHUNMATHI EXERCISE 5 2" src="https://github.com/user-attachments/assets/80b57225-ec94-4a8e-90a3-9d6698a67847" />
